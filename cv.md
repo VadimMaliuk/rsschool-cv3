@@ -6,6 +6,8 @@ Resume/CV
 
 E-mail: gmaggressor@gmail.com
 
+Phone:
+
 Discord: Vadzim#4482
 
 ## Summary
