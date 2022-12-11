@@ -6,7 +6,7 @@ Resume/CV
 
 E-mail: gmaggressor@gmail.com
 
-Phone:
+Phone: +375(29)604-71-81
 
 Discord: Vadzim#4482
 
