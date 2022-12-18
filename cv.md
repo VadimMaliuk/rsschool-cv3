@@ -1,23 +1,25 @@
-Resume/CV
+# Resume/CV
 
-# Vadim Maliuk
+## Vadim Maliuk
 
 ## Contact Info
 
-E-mail: gmaggressor@gmail.com
+### **E-mail:** gmaggressor@gmail.com
+### **Discord:** Vadzim#4482
 
-Phone: +375(29)604-71-81
-
-Discord: Vadzim#4482
 
 ## Summary
+**Goal:** Expand my knowledge of JS
 
-Goal: Expand my knowledge of JS
 
 ## Education
 
-2008 – 2012 "Institute of Entrepreneurship" of Minsk Commercial Activity
+**2008 – 2012**
+"Institute of Entrepreneurship" of Minsk
+Commercial Activity
 
-2005 – 2008 "Minsk State Vocational and Technical College of Trade" of Minsk Commodity Research
+**2005 – 2008**
+"Minsk State Vocational and Technical College of Trade" of Minsk
+Commodity Research
 
 ## English: A2
